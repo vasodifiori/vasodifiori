@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./images/france.gif" alt="france" width="800">
+  <img src="./images/puppycat.gif" alt="puppycat" width="800">
 </p>
