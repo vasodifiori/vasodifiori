@@ -1,3 +1,11 @@
+<div align="center">
+      <img src="https://komarev.com/ghpvc/?username=vasodifiori&color=gray&style=plastic&label=vasodifiori">
+</div>
+
+
 <p align="center">
   <img src="./images/payjay.gif" alt="payjay" width="800">
 </p>
+</div>
+<p align="center"> <a href="https://soleverdee.atabook.org/">ata</a> . <a href="https://rentry.co/tredidenari">rentry</a> . <a href="https://occhipendenti.straw.page/">straw</a> . <a href="https://en.pronouns.page/@soleverde">pronouns</a>
+<p align="center">
